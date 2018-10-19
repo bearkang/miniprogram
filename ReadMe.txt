@@ -1,1 +1,2 @@
 init  bear
+init test
